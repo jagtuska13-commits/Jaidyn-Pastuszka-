@@ -1,0 +1,10 @@
+{
+  "name": "JAGGED AI",
+  "description": "An immersive AI experience featuring a cinematic introduction and a supportive, loyal AI companion named Jagged Gem.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
